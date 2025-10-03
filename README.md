@@ -17,11 +17,11 @@ The goal of this work is to compare different deep learning–based and statisti
   - *(and the rest of the models)*
 
 ### Model Comparison
-- **`model_comparison/`** – Cross-model comparison notebooks.  
+- **`model comparison/`** – Cross-model comparison notebooks.  
   - Includes  correlation evaluation between different models on their best performance as well as a common setup
 
 ### Data Analysis
-- **`data_analysis/`** – Exploratory analysis of the original dataset.  
+- **`Data Processing/`** – Exploratory analysis of the original dataset.  
   - Data profiling, preprocessing steps, and feature distribution checks.  
 
 ### Data
